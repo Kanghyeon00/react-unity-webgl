@@ -16,8 +16,8 @@ function App() {
     <div className="App">
       <p style={{fontSize : '24px'}}>Test</p>
       <Unity style={{
-        width : '80%',
-        height : '100%',
+        width : '70vh',
+        height : '100vw',
       }} unityContext={unityContext} />;
     </div>
   );
