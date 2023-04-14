@@ -17,7 +17,7 @@
 @media screen and (min-width: 320px) and (max-width: 767px) and ( orientation: portrait ){
   html {
     transform: rotate(-90deg);
-    transform-origin: top right;
+    transform-origin: top left;
     position: absolute;
     top: 100%;
     width: 100vh;
